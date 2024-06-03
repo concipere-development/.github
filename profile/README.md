@@ -1,4 +1,6 @@
-## Hi there 👋
+## Concipere Development
+
+the *leading* development team for bypassing paid modifications for the popular video game Minecraft
 
 <!--
 
